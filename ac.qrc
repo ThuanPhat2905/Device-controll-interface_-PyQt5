@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="myac">
+    <file>AC_off.png</file>
+    <file>AC_on.png</file>
+  </qresource>
+</RCC>
